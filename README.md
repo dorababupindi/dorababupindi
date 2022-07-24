@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dorababupindi
-- 👀 I’m interested in ... Data science and analytics
-- 🌱 I’m currently learning ...Microsoft excel and SQL
+- 👀 I’m interested in ... Data Analytics and Data Science
+- 🌱 I’m currently learning ...Microsoft excel, SQL, TABLEAU & R programming
 - 💞️ I’m looking to collaborate on ... Projects related to data anaytics
 - 📫 How to reach me ...You can reach me over my Email address dorababupindi@gmail.com
 
