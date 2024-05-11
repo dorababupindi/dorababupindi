@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Projects related to Web development, Data Anaytics
 - 📫 How to reach me ...You can reach me over my Email address dorababupindi@gmail.com
 
- d8888b.  .d88b.  d8888b.  .d8b.  d8888b.  .d8b.  d8888b. db    db 
+d8888b.  .d88b.  d8888b.  .d8b.  d8888b.  .d8b.  d8888b. db    db 
 88  `8D .8P  Y8. 88  `8D d8' `8b 88  `8D d8' `8b 88  `8D 88    88 
 88   88 88    88 88oobY' 88ooo88 88oooY' 88ooo88 88oooY' 88    88 
 88   88 88    88 88`8b   88~~~88 88~~~b. 88~~~88 88~~~b. 88    88 
